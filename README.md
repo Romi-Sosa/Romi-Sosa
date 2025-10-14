@@ -10,16 +10,19 @@
 <h2>Sobre mí 😃</h2>
 <p align="left">
 🎮 Me enfoco en desarrollo en Unity y creación de videojuegos.  
+  <br>
 💻 Principalmente trabajo en programación y scripts en C#.  
-🚀 Actualmente estoy aprendiendo **Unreal Engine y Blueprints** para ampliar mis habilidades.
+  <br>
+🚀 Actualmente estoy aprendiendo Unreal Engine y Blueprints para ampliar mis habilidades.
+  
 </p>
 
 <br>
 
-<h2>Tecnologías👩‍💻</h2>
+<h2>Tecnologías 👩‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,unity,unreal,github,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,python,unity,unreal,github,vscode,illustrator,photoshop,maya&perline=10" />
   </a>
 </p>
 
