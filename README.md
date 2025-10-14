@@ -46,34 +46,34 @@
 
   <td width="25%" align="center">
     <p align="center">
-      <a href="#" title="Marea Profunda">
+      <a href="https://github.com/RominaDevX/MareaProfunda" title="Marea Profunda">
         <img align="center" width=100% src="https://github.com/RominaDevX/RominaDevX/blob/main/mareaprofunda.jpg" alt="Marea Profunda" />
       </a>
     </p>
     <p align="center">
-      <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Marea Profunda" /></a>
+      <a href="https://github.com/RominaDevX/MareaProfunda" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Marea Profunda" /></a>
     </p>       
   </td>
 
   <td width="25%" align="center">
     <p align="center">
-      <a href="#" title="Marea Profunda">
+      <a href="https://github.com/RominaDevX/AtomosVirtuales" title="Marea Profunda">
         <img align="center" width=100% src="https://github.com/RominaDevX/RominaDevX/blob/main/Captura%20de%20pantalla%202025-10-14%20093747.jpg" alt="Mare" />
       </a>
     </p>
     <p align="center">
-      <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Atomos Virtuales" /></a>
+      <a href="https://github.com/RominaDevX/AtomosVirtuales" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Atomos Virtuales" /></a>
     </p>       
   </td>
 
   <td width="25%" align="center">
     <p align="center">
-      <a href="#" title="Sub Undis">
+      <a href="https://github.com/RominaDevX/Sub-Undis" title="Sub Undis">
         <img align="center" width=100% src="https://github.com/RominaDevX/RominaDevX/blob/main/sub%20Unids.jpg" alt="sUB Undis />
       </a>
     </p>
     <p align="center">
-      <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Sub Undis" /></a>
+      <a href="https://github.com/RominaDevX/Sub-Undis" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Sub Undis" /></a>
     </p>       
   </td>
   
