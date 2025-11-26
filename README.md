@@ -33,7 +33,7 @@
 
 <table align="left">
 <tr border="none">
-  <td width="25%" align="center">
+  <td width="30%" align="center">
     <p align="center">
       <a href="https://github.com/RominaDevX/GoatCatch" title="GoatCatch">
         <img align="center" width=100% src="https://github.com/RominaDevX/RominaDevX/blob/main/goatcatch2.jpg" alt="GoatCatch" />
@@ -44,7 +44,7 @@
     </p>       
   </td>
 
-  <td width="25%" align="center">
+  <td width="30%" align="center">
     <p align="center">
       <a href="https://github.com/RominaDevX/MareaProfunda" title="Marea Profunda">
         <img align="center" width=100% src="https://github.com/RominaDevX/RominaDevX/blob/main/mareaprofunda.jpg" alt="Marea Profunda" />
@@ -55,18 +55,7 @@
     </p>       
   </td>
 
-  <td width="25%" align="center">
-    <p align="center">
-      <a href="https://github.com/RominaDevX/AtomosVirtuales" title="Marea Profunda">
-        <img align="center" width=100% src="https://github.com/RominaDevX/RominaDevX/blob/main/Captura%20de%20pantalla%202025-10-14%20093747.jpg" alt="Mare" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/RominaDevX/AtomosVirtuales" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Atomos Virtuales" /></a>
-    </p>       
-  </td>
-
-  <td width="25%" align="center">
+  <td width="30%" align="center">
     <p align="center">
       <a href="https://github.com/RominaDevX/Sub-Undis" title="Sub Undis">
         <img align="center" width=100% src="https://github.com/RominaDevX/RominaDevX/blob/main/sub%20Unids.jpg" alt="sUB Undis />
