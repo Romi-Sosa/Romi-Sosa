@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Romina / RominaDev ✨</h1> 
+<h1 align="center">Hola 👋 soy Romina✨</h1> 
 
 <p align="left">
   <a href="https://github.com/RominaDevX" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@RominaGrajales" /></a>
